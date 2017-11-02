@@ -1,6 +1,6 @@
 ## CIDR Calculator
 
-Made by : Reinhard Linardi (13515011)
+Made by : Reinhard Linardi (13515011)  
 Language : Python 2.7 
 
 ### Petunjuk penggunaan program
